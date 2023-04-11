@@ -175,7 +175,9 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by ManZer#8588
+        Made with &#10084; by ManZer#8588 |  &#10084;
+        <a href="https://github.com/athlona64/LineaMessage">Source Code</a> |  &#10084;
+        <a href="https://explorer.goerli.linea.build/address/0x0941fAD6e8eDbE55AeEf586eAC47325281d48f01/contracts#address-tabs">Contract</a>
       </footer>
     </div>
   );
